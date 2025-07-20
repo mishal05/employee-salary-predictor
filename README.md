@@ -4,7 +4,7 @@ This project is a **Machine Learning web app** built using **Streamlit** that pr
 
 ---
 
-## 🚀Features
+## Features
 
 * Cleaned and preprocessed dataset (nulls, outliers removed)
 * One-hot encoding for categorical features
